@@ -8,5 +8,10 @@
       "user_name":"sonu",
       "password":"sonu",
       "expiry_date":"2025-06-28 00:00:00"
+   },
+   {
+      "user_name":"sandeep",
+      "password":"Salon@123",
+      "expiry_date":"2025-06-30 00:00:00"
    }
 ]
